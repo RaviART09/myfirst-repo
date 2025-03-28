@@ -1,0 +1,5 @@
+ll : used to see the list of files in order (A-Z)
+ll -t : used to see the list of the files based on modification/creation time
+ll -r : used to see the files in reverse order (Z to A)
+ll -a : used to see all files including hidden
+
